@@ -16,9 +16,4 @@ public class LoginTest_2 extends BaseClass2
 		
 	}
 	
-	@Test
-	public void testcase2()
-	{
-		System.out.println("No use");
-	}
 }
